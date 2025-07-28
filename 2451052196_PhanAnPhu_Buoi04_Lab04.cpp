@@ -273,6 +273,8 @@ Node* findMin(Node* root) {
 	return p;
 }
 
+// Viet toi day thoi con ben duoi bo
+
 // emoji (* - *) 
 void insEmj1() {
 	cout << "(* - *) ";
